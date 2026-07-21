@@ -6,7 +6,7 @@ This is a project from the odin projects curriculum, where I am building a simpl
 
 The goal is to create a website with a home page  using several recipes, and individual pages for each recipe ingredients and instruction. This project is focus on HTML fundamentals.
 
-### Skills I will diplay
+### Skills I will display
 
 - Structuring a webpage using semantic HTML
 - Creating and linking multiple HTML pages
